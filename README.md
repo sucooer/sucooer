@@ -27,6 +27,25 @@
 
 </div>
 
+<tr><td> 
+  
+ <!-- wakatime 统计 --> 
+ ### 📊 WakaTime 
+  
+ <picture> 
+   <source 
+     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" 
+     media="(prefers-color-scheme: dark)" 
+   /> 
+   <source 
+     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true" 
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+   /> 
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" /> 
+ </picture> 
+  
+ </td></tr>
+
   <!-- Metrics（GitHub 信息统计）-->
 ![Metrics](https://metrics.lecoq.io/sucooer?template=classic&isocalendar=1&lines=1&stars=1&achievements=1&activity=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=2&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&tweets=false&tweets.user=saitoling&tweets.attachments=false&tweets.limit=2&config.timezone=Asia%2FShanghai)
 
