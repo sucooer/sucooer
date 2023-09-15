@@ -46,9 +46,6 @@
   
  </td></tr>
 
-  <!-- Metrics（GitHub 信息统计）-->
-![Metrics](https://metrics.lecoq.io/sucooer?template=classic&isocalendar=1&lines=1&stars=1&achievements=1&activity=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=2&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&tweets=false&tweets.user=saitoling&tweets.attachments=false&tweets.limit=2&config.timezone=Asia%2FShanghai)
-
   <!-- GitHub Stats Card（GitHub 统计卡片）-->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sucooer&show_icons=true&theme=radical)
 
