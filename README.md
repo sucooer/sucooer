@@ -27,6 +27,10 @@
 
 </div>
 
+🎶最近在听
+
+[![Netease recently played](https://net.wooi.eu.org/?id=247878512&theme=card&show_rainbow=1&size=300)](https://net.wooi.eu.org/?id=247878512&theme=card&show_rainbow=1&size=300)
+
 <tr><td> 
   
  <!-- wakatime 统计 --> 
