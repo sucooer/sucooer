@@ -31,6 +31,7 @@
 
 [![Netease recently played](https://netease.520717.xyz/?id=247878512&theme=card&show_rainbow=1&size=300)](https://netease.520717.xyz/?id=247878512&theme=card&show_rainbow=1&size=300)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
 <tr><td> 
   
