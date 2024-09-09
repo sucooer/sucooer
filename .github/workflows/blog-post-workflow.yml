@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://123.anyaer.icu/rss2.xml"
+        	 disable_item_validation: "true"
