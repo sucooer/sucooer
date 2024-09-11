@@ -26,15 +26,9 @@
 </picture>
 </div>
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### 🎶最近在听
 
 [![Netease recently played](https://netease.520717.xyz/?id=247878512&theme=card&show_rainbow=1&size=300)](https://netease.520717.xyz/?id=247878512&theme=card&show_rainbow=1&size=300)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xv7afxfaftrcej34ushmwwnqdy&unique={true|1|on|yes})
 
 <tr><td> 
   
