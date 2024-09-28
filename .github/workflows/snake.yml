@@ -1,9 +1,14 @@
-name: snake
+name: generate animation
 
 on:
+  # run automatically every 12 hours
   schedule:
     - cron: "0 2 * * *"
+
+  # allows to manually run the job at any time
   workflow_dispatch:
+
+  # run on every push on the main branch
   push:
     branches:
       - main
@@ -14,11 +19,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # Checkout the repository to the GitHub Actions runner
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        id: generate
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -26,20 +32,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Check generated files
-        run: |
-          ls dist/
-
-      - name: Commit and push changes
-        if: steps.generate.outputs.changed == 'true'
+      # Add and commit the new files, but do not delete existing files
+      - name: Commit files
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          mkdir -p snake-output
-          mv dist/* snake-output/
-          ls snake-output/  # 检查文件是否已移动
-          git add snake-output/
-          git commit -m "Update GitHub contribution grid snake"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git commit -m 'Add generated snake animation'
+
+      # Push the changes to the main branch
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
