@@ -20,9 +20,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://flist.520717.xyz/down/hjrrvzewugv/1549333050/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://flist.520717.xyz/down/hjrrvzewugv/-406129739/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://flist.520717.xyz/down/hjrrvzewugv/1549333050/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://flist.520717.xyz/down/5ucc70psmbu/1062801968/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://flist.520717.xyz/down/5ucc70psmbu/-240635393/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://flist.520717.xyz/down/5ucc70psmbu/1062801968/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
 
