@@ -28,7 +28,7 @@
 
 ### 🎶最近在听
 
-[![Netease recently played](https://netease.520717.xyz/?id=247878512&theme=card&show_rainbow=1&size=300)](https://netease.520717.xyz/?id=247878512&theme=card&show_rainbow=1&size=300)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&redirect=true)
 
 <tr><td> 
   
