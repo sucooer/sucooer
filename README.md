@@ -63,6 +63,6 @@
 
 
   <!-- GitHub streak（GitHub 连续打卡）-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sucooer&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sucooer&theme=merko&locale=zh_Hans)](https://git.io/streak-stats)
 
 ---
