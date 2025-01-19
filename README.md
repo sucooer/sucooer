@@ -9,7 +9,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://520717.xyz/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://memo.520717.xyz/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/saitoling/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@saitohato6307"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="http://music.163.com/artist?id=51933113&userid=247878512"><img src="https://img.shields.io/badge/Netease-网易云音乐-red" /></a>&emsp;
