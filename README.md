@@ -2,14 +2,14 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://memo.520717.xyz/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);好久不见!!!&center=true&size=27" alt="Typing SVG" />
+    <a href="https://yuika.cn">
+      <img src="https://mmbiz.qpic.cn/mmbiz_gif/gz2sdHyQbaZc0dIlEbMqjanFnBSmeLcww0YAecX8fuicqdUW4goZhMlKxhdaNzMDA9XgZD5CfffmqsEqkUibrySA/640?wx_fmt=gif&from=appmsg" alt="Typing SVG" />
     </a>
   </div>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://memo.520717.xyz/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://yuika.cn"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/saitoling/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@saitohato6307"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="http://music.163.com/artist?id=51933113&userid=247878512"><img src="https://img.shields.io/badge/Netease-网易云音乐-red" /></a>&emsp;
