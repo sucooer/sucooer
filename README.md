@@ -34,8 +34,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,python,react,docker,git,linux&theme=dark)](https://skillicons.dev)
 
-<tr><td>
-
  <!-- wakatime 统计 -->
  ### 📊 WakaTime
 
@@ -51,8 +49,6 @@
    <img src="https://github-readme-stats-rose-eta-78.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
  </picture>
 
- </td></tr>
-
   <!-- GitHub Stats Card（GitHub 统计卡片）-->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sucooer&show_icons=true&theme=radical)
 
@@ -60,8 +56,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sucooer)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-- Development Metrics（开发指标）-->
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucooer&theme=tokyonight)](https://github.com/sucooer)
-[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucooer&theme=tokyonight)](https://github.com/sucooer)
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucooer&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucooer&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sucooer&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucooer&theme=tokyonight&utcOffset=8" />
+</p>
 
   <!-- GitHub Readme Activity Graph （GitHub 活动统计图）-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sucooer&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -70,8 +72,12 @@
   <!-- GitHub streak（GitHub 连续打卡）-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=sucooer&theme=merko&locale=zh_Hans)](https://git.io/streak-stats)
 
+  <!-- Contribution Calendar（贡献日历）-->
+### 🗓️贡献日历
+
+[![Contribution Calendar](https://ghchart.rshah.org/409ba5/sucooer)](https://github.com/sucooer)
+
 ---
-
-
-
-
+<div align="center">
+  <sub>Code with rhythm, build with heart.</sub>
+</div>
