@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://yuika.cn">
@@ -20,33 +20,33 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/sucooer/sucooer/main/snake/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/sucooer/sucooer/main/snake/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.gitmirror.com/sucooer/sucooer/main/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sucooer/sucooer/main/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sucooer/sucooer/main/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sucooer/sucooer/main/snake/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
 
 ### 🎶最近在听
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&redirect=true)
 
-<tr><td> 
-  
- <!-- wakatime 统计 --> 
- ### 📊 WakaTime 
-  
- <picture> 
-   <source 
-     srcset="https://github-readme-stats-rose-eta-78.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" 
-     media="(prefers-color-scheme: dark)" 
-   /> 
-   <source 
-     srcset="https://github-readme-stats-rose-eta-78.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true" 
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-   /> 
-   <img src="https://github-readme-stats-rose-eta-78.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" /> 
- </picture> 
-  
+<tr><td>
+
+ <!-- wakatime 统计 -->
+ ### 📊 WakaTime
+
+ <picture>
+   <source
+     srcset="https://github-readme-stats-rose-eta-78.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+     media="(prefers-color-scheme: dark)"
+   />
+   <source
+     srcset="https://github-readme-stats-rose-eta-78.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+   <img src="https://github-readme-stats-rose-eta-78.vercel.app/api/wakatime?username=sucooer&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+ </picture>
+
  </td></tr>
 
   <!-- GitHub Stats Card（GitHub 统计卡片）-->
@@ -56,7 +56,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sucooer)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-- Github Profile Trophy（GitHub 资料奖杯）-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sucooer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <!-- GitHub Readme Activity Graph （GitHub 活动统计图）-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sucooer&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -66,3 +66,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sucooer&theme=merko&locale=zh_Hans)](https://git.io/streak-stats)
 
 ---
+
+
+
+
