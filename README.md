@@ -28,11 +28,7 @@
 
 ### ✨开发概览
 
-<p>
-  <img src="https://img.shields.io/github/followers/sucooer?label=Followers&style=flat&logo=github" />
-  <img src="https://img.shields.io/github/stars/sucooer/sucooer?label=Repo%20Stars&style=flat&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/sucooer/sucooer?label=Last%20Commit&style=flat&logo=github" />
-</p>
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sucooer&theme=tokyonight)](https://github.com/sucooer)
 
 ### 🧰常用技术
 
@@ -63,8 +59,9 @@
   <!-- Most used languages（GitHub 使用语言统计）-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sucooer)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- Repository Card（仓库卡片）-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sucooer&repo=sucooer&theme=radical)](https://github.com/sucooer/sucooer)
+  <!-- Development Metrics（开发指标）-->
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucooer&theme=tokyonight)](https://github.com/sucooer)
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucooer&theme=tokyonight)](https://github.com/sucooer)
 
   <!-- GitHub Readme Activity Graph （GitHub 活动统计图）-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sucooer&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
