@@ -28,7 +28,7 @@
 
 ### 🎶最近在听
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&redirect=true)
+[![spotify-github-profile](https://wsrv.nl/?url=https%3A%2F%2Fspotify-github-profile.vercel.app%2Fapi%2Fview%3Fuid%3D31xv7afxfaftrcej34ushmwwnqdy%26cover_image%3Dtrue%26theme%3Ddefault%26show_offline%3Dfalse%26background_color%3D121212%26interchange%3Dfalse%26bar_color_cover%3Dtrue)](https://spotify-github-profile.vercel.app/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&redirect=true)
 
 <tr><td>
 
@@ -56,7 +56,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sucooer)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-- Github Profile Trophy（GitHub 资料奖杯）-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=sucooer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://wsrv.nl/?url=https%3A%2F%2Fgithub-profile-trophy.vercel.app%2F%3Fusername%3Dsucooer%26theme%3Donedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <!-- GitHub Readme Activity Graph （GitHub 活动统计图）-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sucooer&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
