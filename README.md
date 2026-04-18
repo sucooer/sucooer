@@ -26,9 +26,17 @@
 </picture>
 </div>
 
-### 🎶最近在听
+### ✨开发概览
 
-[![spotify-github-profile](https://wsrv.nl/?url=https%3A%2F%2Fspotify-github-profile.vercel.app%2Fapi%2Fview%3Fuid%3D31xv7afxfaftrcej34ushmwwnqdy%26cover_image%3Dtrue%26theme%3Ddefault%26show_offline%3Dfalse%26background_color%3D121212%26interchange%3Dfalse%26bar_color_cover%3Dtrue)](https://spotify-github-profile.vercel.app/api/view?uid=31xv7afxfaftrcej34ushmwwnqdy&redirect=true)
+<p>
+  <img src="https://img.shields.io/github/followers/sucooer?label=Followers&style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/sucooer/sucooer?label=Repo%20Stars&style=flat&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/sucooer/sucooer?label=Last%20Commit&style=flat&logo=github" />
+</p>
+
+### 🧰常用技术
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,python,react,docker,git,linux&theme=dark)](https://skillicons.dev)
 
 <tr><td>
 
@@ -55,8 +63,8 @@
   <!-- Most used languages（GitHub 使用语言统计）-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sucooer)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- Github Profile Trophy（GitHub 资料奖杯）-->
-[![trophy](https://wsrv.nl/?url=https%3A%2F%2Fgithub-profile-trophy.vercel.app%2F%3Fusername%3Dsucooer%26theme%3Donedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <!-- Repository Card（仓库卡片）-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sucooer&repo=sucooer&theme=radical)](https://github.com/sucooer/sucooer)
 
   <!-- GitHub Readme Activity Graph （GitHub 活动统计图）-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sucooer&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
