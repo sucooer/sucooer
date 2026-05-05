@@ -50,10 +50,10 @@
  </picture>
 
   <!-- GitHub Stats Card（GitHub 统计卡片）-->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sucooer&show_icons=true&theme=radical)
-
-  <!-- Most used languages（GitHub 使用语言统计）-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sucooer)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/base.svg" alt="GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/languages.indepth.svg" alt="Top languages" />
+</p>
 
   <!-- Development Metrics（开发指标）-->
 <p align="center">
