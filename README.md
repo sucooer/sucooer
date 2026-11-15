@@ -65,8 +65,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucooer&theme=tokyonight&utcOffset=8" />
 </p>
 
-  <!-- GitHub Readme Activity Graph （GitHub 活动统计图）-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sucooer&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   <!-- GitHub streak（GitHub 连续打卡）-->
