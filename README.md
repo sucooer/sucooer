@@ -54,6 +54,35 @@
   <img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/base.svg" alt="GitHub stats" />
   <img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/languages.indepth.svg" alt="Top languages" />
 </p>
+<!-- GitHub Metrics 更多卡片（More Metrics cards）-->
+<p align="center">
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/isocalendar.fullyear.svg" alt="Full-year calendar" />
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/stargazers.chartist.svg" alt="Stargazers chart" />
+</p>
+<p align="center">
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/stars.svg" alt="Recently starred" />
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/habits.charts.svg" alt="Habits charts" />
+</p>
+<p align="center">
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/followup.indepth.svg" alt="In-depth analysis" />
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/reactions.svg" alt="Comment reactions" />
+</p>
+<p align="center">
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/people.followers.svg" alt="Followers" />
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/repositories.pinned.svg" alt="Pinned repositories" />
+</p>
+<p align="center">
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/discussions.svg" alt="GitHub Discussions" />
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/calendar.full.svg" alt="Full history calendar" />
+</p>
+<p align="center">
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/achievements.compact.svg" alt="Achievements" />
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/activity.svg" alt="Recent activity" />
+</p>
+<p align="center">
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/stackoverflow.svg" alt="Stack Overflow" />
+<img width="49%" src="https://raw.githubusercontent.com/sucooer/sucooer/main/github-metrics/wakatime.svg" alt="WakaTime" />
+</p>
 
   <!-- Development Metrics（开发指标）-->
 <p align="center">
