@@ -26,8 +26,6 @@ jobs:
           base: "header, activity, community, repositories"
           # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
-          # 此插件为文档中的 👨‍💻 Lines of code changed
-          plugin_lines: yes
           # 此插件为文档中的 🙋 Introduction
           plugin_introduction: yes
           # 此插件为文档中的 🎫 Gists
